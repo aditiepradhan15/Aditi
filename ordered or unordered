@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML List Example</title>
+</head>
+<body>
+
+    <h1>Unordered List Example</h1>
+    <ul>
+        <li>Apple</li>
+        <li>Banana</li>
+        <li>Orange</li>
+        <li>Mango</li>
+    </ul>
+
+    <h2>Steps to Bake a Cake</h2>
+<ol>
+  <li>Preheat the oven</li>
+  <li>Mix the ingredients</li>
+  <li>Pour the batter into a pan</li>
+  <li>Bake for 30 minutes</li>
+  <li>Let it cool and serve</li>
+</ol>
+
+</body>
+</html>
