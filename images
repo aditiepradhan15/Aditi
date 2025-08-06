@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Example</title>
+</head>
+<body>
+
+    <h1>My Favorite Images</h1>
+
+    <h3>guitar</h3>
+    <img src="C:\Users\Amogh\Downloads\3406145.jpg" alt="description" width="500" height="250">
+
+
+    <h3>bmw</h3>
+   <img src="c:\Users\Amogh\Downloads\wp9116631.webp" alt="description" width="500" height="250">
+
+
+</body>
+</html>
