@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            line-height: 1.6;
+        }
+        header, nav, main, section, footer {
+            padding: 20px;
+        }
+        header {
+            background: #dfa5a5;
+            color: #fff;
+        }
+        nav {
+            background: #492b2b;
+        }
+        nav a {
+            color: #fff;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        section {
+            padding: 40px 20px;
+            border-bottom: 1px solid #ccc;
+        }
+        footer {
+            background: #492b2b;
+            color: #fff;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <h1>Aditi Pradhan</h1>
+        <p> Programmer</p>
+    </header>
+
+    <!-- Navigation -->
+    <nav>
+        <a href="#about">About Me</a>
+        <a href="#projects">Projects</a>
+        <a href="#experience">Experience</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <!-- Main Content -->
+    <main>
+
+        <!-- About Me Section -->
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Hello! I am Aditi Pradhan, A programmer skills in HTML, CSS, JavaScript, and C++. .</p>
+            <ul>
+                <li><strong>Education:</strong> B.Tech in Computer Science</li>
+                <li><strong>Skills:</strong> HTML, CSS, JavaScript, C++</li>
+            </ul>
+        </section>
+
+        <!-- Projects Section -->
+        <section id="projects">
+            <h2>Projects</h2>
+            <article>
+                <h3>Portfolio Website</h3>
+                <p>A responsive personal website built using HTML, CSS, and JavaScript. <a href="#" target="_blank">View Project</a></p>
+            </article>
+            
+        </section>
+
+        <!-- Experience Section -->
+        
+
+        <!-- Contact Section -->
+        <section id="contact">
+            <h2>Contact</h2>
+            <p><strong>Email:</strong> pradhanadii1508@gmail.com</p>
+            <p><strong>Phone:</strong> 7058462306</p>
+            
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025 Aditi Pradhan. All Rights Reserved <!DOCTYPE html>
+</footer>
+
+</body>
+</html>
